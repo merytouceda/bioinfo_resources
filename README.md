@@ -1,4 +1,4 @@
-# bioinfo_resources
+# Bioinformatics Resources
 Resources to boost your bioinformatics toolkit. With a special focus in meta'omics oriented tools. 
 
 ## Tools
