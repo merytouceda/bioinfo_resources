@@ -21,6 +21,8 @@ Kaiju: https://kaiju.binf.ku.dk/
 
 phyloFLash: http://hrgv.github.io/phyloFlash/
 
+gggenomes (A grammar of graphics for comparative genomics): https://thackl.github.io/gggenomes/ 
+
 
 ## Tutorials
 
