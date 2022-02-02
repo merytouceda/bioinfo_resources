@@ -29,6 +29,11 @@ Siamcat (machine learning for microbiome): https://www.biorxiv.org/content/10.11
 
 GToTree (phylogenomics): https://github.com/AstrobioMike/GToTree/wiki/what-is-gtotree%3F
 
+Binny (automatic binning for complex metagenomics datasets): https://www.biorxiv.org/content/10.1101/2021.12.22.473795v1.full
+
+Microbe Annotator: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03940-5
+
+
 
 
 ## Tutorials
@@ -68,9 +73,14 @@ https://www.nature.com/articles/s41597-020-00617-9
 https://www.nature.com/articles/s41396-020-0622-6
 https://peerj.com/articles/8614/ (termites)
 https://www.nature.com/articles/s42003-020-0856-x.pdf (mags and ecology)
+https://www.nature.com/articles/s41587-021-01130-z#Abs1 (lineage resolved MAGS)
 
 ### Unknowns: 
 https://www.biorxiv.org/content/10.1101/2020.06.30.180448v6 (Chiara Vanni)
+
+### Metabolism and BGCs
+https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000731 (Arctic Oceans)
+https://pubmed.ncbi.nlm.nih.gov/12946402/ (Evolution of secondary metabolites)
 
 
 
